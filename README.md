@@ -12,7 +12,7 @@
 - 	EJS(Embedded java script)
 - 	HTML & CSS
 ## To setup the project:
- ###  NodeJS: Visit the official website to download and install NPM program also gets installed Node when you install Node.js.   https://nodejs.org/en/ 
+ ###  NodeJS: Visit the official website to download and install, NPM program also gets installed Node when you install Node.js.   https://nodejs.org/en/ 
  - Create an empty directory.
 - Open up your console, navigate to our new directory, and run npm init.
 - Within our directory run 'npm install express ejs socket.io uuid peer'. This will install all the dependency that we need to build this application.
