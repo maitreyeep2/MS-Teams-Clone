@@ -28,9 +28,6 @@
 
 
 ### Check out the live demo: https://secret-reaches-92378.herokuapp.com/
-### Check out the video demo : https://youtu.be/peyFnulTEc8
-
-
-
+### Check out the video demo : https://youtu.be/tnyCBHqrzRY
 
 
